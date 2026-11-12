@@ -1,0 +1,1 @@
+This folder contains a prior version of the project implemented in [PyMC](https://www.pymc.io/welcome.html). This version is not maintained and it does not provide guidance on the packages and configuration needed to reproduce the results.
